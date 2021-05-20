@@ -1,0 +1,10 @@
+.commentDisplay{
+    width: 80%;
+    margin: 50px auto;
+  }
+
+.comment{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-top: 1px dashed #00d1b2;
+}
